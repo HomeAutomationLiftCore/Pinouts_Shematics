@@ -1,17 +1,20 @@
 GND Display   -->     GND
 +3-5V Display -->     5V
-CLK Display   -->     D13
-MISO Display  -->     D12
-MOSI Display  -->     D11
-CS Display    -->     D10
-D/C Display   -->     D09
-Y+ Display    -->     A1
-X+ Display    -->     D08
-Y- Display    -->     D07
-X- Display    -->     A0
+CLK Display   -->     PA5
+MISO Display  -->     PA6
+MOSI Display  -->     PA7
+CS Display    -->     PD14
+D/C Display   -->     PD15
+Y+ Display    -->     PA3
+X+ Display    -->     PF13
+Y- Display    -->     PF12
+X- Display    -->     PC0
 RGB LED GND   -->     GND
-RGB LED R     -->     D06
-RGB LED G     -->     D05
-RGB LED B     -->     D03
+RGB LED R     -->     PE9
+RGB LED G     -->     PE11
+RGB LED B     -->     PE13
 Color LED GND -->     GND
-Color LED +   -->     D04
+Color LED +   -->     PF14
+IR RECIVER G  -->     GND
+IR RECIVER R  -->     3.3V
+IR RECIVER Y  -->     PF15
