@@ -1,0 +1,1 @@
+Pinouts for NUCLEOF767ZI
