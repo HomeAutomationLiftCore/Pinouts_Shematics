@@ -15,6 +15,6 @@ RGB LED G     -->     PE11
 RGB LED B     -->     PE13
 Color LED GND -->     GND
 Color LED +   -->     PF14
-IR RECIVER G  -->     GND
-IR RECIVER R  -->     3.3V
-IR RECIVER Y  -->     PF15
+DHT11 PIN1    -->     GND
+DHT11 PIN2    -->     3.3V
+DHT11 PIN3    -->     PF15
