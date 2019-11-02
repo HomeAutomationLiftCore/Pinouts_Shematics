@@ -1,3 +1,5 @@
+DISPLAY:
+________________________________________
 GND Display   -->     GND
 +3-5V Display -->     5V
 CLK Display   -->     PA5
@@ -9,3 +11,9 @@ Y+ Display    -->     PA3
 X+ Display    -->     PF13
 Y- Display    -->     PF12
 X- Display    -->     PC0
+
+ROTARY SWITCH:
+_______________________________________
+Pushbutton    -->     PH0
+channel A     -->     PC14
+channel B     -->     PC15
