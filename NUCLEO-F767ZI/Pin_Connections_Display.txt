@@ -1,1 +1,11 @@
-Test
+GND Display   -->     GND
++3-5V Display -->     5V
+CLK Display   -->     PA5
+MISO Display  -->     PA6
+MOSI Display  -->     PA7
+CS Display    -->     PD14
+D/C Display   -->     PD15
+Y+ Display    -->     PA3
+X+ Display    -->     PF13
+Y- Display    -->     PF12
+X- Display    -->     PC0
