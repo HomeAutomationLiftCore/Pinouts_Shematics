@@ -18,3 +18,7 @@ Color LED +   -->     PF14
 DHT11 PIN1    -->     GND
 DHT11 PIN2    -->     3.3V
 DHT11 PIN3    -->     PF15
+Clock GND     -->     GND
+Clock VCC     -->     3.3V
+Clock SDA     -->     PB9
+Clock SCL     -->     PB8
