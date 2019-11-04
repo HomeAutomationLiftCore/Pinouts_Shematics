@@ -14,6 +14,6 @@ X- Display    -->     PC0
 
 ROTARY SWITCH:
 _______________________________________
-Pushbutton    -->     PD7
-channel A     -->     PC14
-channel B     -->     PC15
+Pushbutton    -->     PG0
+channel A     -->     PH1
+channel B     -->     PE3
